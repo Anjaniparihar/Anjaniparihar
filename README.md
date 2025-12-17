@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Anjani 👋
 
-<!--
-**Anjaniparihar/Anjaniparihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE (Cyber Security) Student  
+💻 Linux & Networking Learner  
+🔐 Interested in Ethical Hacking & Cyber Security  
 
-Here are some ideas to get you started:
+### Skills
+- Linux
+- Networking Basics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- TryHackMe (Linux Fundamentals)
+- Network Fundamentals
+
+### Goal
+To become a Cyber Security Professional 🚀
